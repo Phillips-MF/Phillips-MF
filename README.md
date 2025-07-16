@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phillips-MF
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python
+- 🌱 I´m currently BI Intern
 - 💞️ I’m looking to collaborate in decision making in companies
 - 📫 How to reach me:
 -       - Email: martinsfelipe62@gmail.com  
